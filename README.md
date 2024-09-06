@@ -1,4 +1,6 @@
 # SolVindochVatten-Weather-App
+![Skärmbild 2023-06-21 110547](https://github.com/user-attachments/assets/980f47c8-ebdc-4bf0-8442-c597902498c1)
+
 
 Miniprojekt - Uppgift 2
 Denna uppgift är för studerande att visa att studerande har förmågan att identifiera behovet och användningsområden för webbkomponenter, samt att tillämpa dessa i ett händelsestyrt program. I uppgiften så beskrivs en vädersida och medan val av API är valfritt så föreslås openweather som studerande redan har en viss bekantskap med. 
@@ -12,6 +14,7 @@ any-typen bör endast tillämpas om koden blir mer skalbar.
 
 Programmet är skapat med senaste versionen av vue.
 API anrop görs med axios.
+
 Komponenter används där det är lämpligt.
 Vädersida
 Söksidan ska innehålla ett sökfält och information om det sökta vädret. Innehållet ska motsvara wireframe {weather app} nedanför. 
