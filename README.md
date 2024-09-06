@@ -3,10 +3,13 @@
 Miniprojekt - Uppgift 2
 Denna uppgift är för studerande att visa att studerande har förmågan att identifiera behovet och användningsområden för webbkomponenter, samt att tillämpa dessa i ett händelsestyrt program. I uppgiften så beskrivs en vädersida och medan val av API är valfritt så föreslås openweather som studerande redan har en viss bekantskap med. 
 Beskrivning
+
 Projektet går ut på att skapa en sida där användare kan söka efter väder på olika platser. Vidare kommer sidan även att använda localStorage API:et för att komma ihåg tidigare sökta platser och en receptsida. Responsive design är inte ett krav i denna uppgift.
+
 Ickefunktionella krav (dessa måste uppfyllas för en godkänt inlämning)
 Programmet är skrivet med typescript.
 any-typen bör endast tillämpas om koden blir mer skalbar.
+
 Programmet är skapat med senaste versionen av vue.
 API anrop görs med axios.
 Komponenter används där det är lämpligt.
