@@ -2,7 +2,7 @@
 ![Skärmbild 2023-06-21 110547](https://github.com/user-attachments/assets/980f47c8-ebdc-4bf0-8442-c597902498c1)
 
 
-Miniprojekt - Uppgift 2
+Miniprojekt - Uppgift
 Denna uppgift är för studerande att visa att studerande har förmågan att identifiera behovet och användningsområden för webbkomponenter, samt att tillämpa dessa i ett händelsestyrt program. I uppgiften så beskrivs en vädersida och medan val av API är valfritt så föreslås openweather som studerande redan har en viss bekantskap med. 
 Beskrivning
 
